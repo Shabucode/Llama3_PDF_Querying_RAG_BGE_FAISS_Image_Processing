@@ -1,0 +1,11 @@
+seam-carving
+langchain
+langchain-community
+pillow
+numpy
+gradio
+Ollama
+llama3
+sentence_transformers
+pypdf
+faiss-cpu
